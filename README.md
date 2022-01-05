@@ -23,7 +23,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezegr&layout=compact)][GitHubProfile]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezegr&layout=compact&theme=tokyonight)][GitHubProfile]
 
 ---
 
