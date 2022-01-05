@@ -21,12 +21,11 @@
 <br />
 <br />
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezegr&layout=compact)][GitHubProfile]
 
----
-
+<br />
+<br />
 ![freezegr's GitHub stats](https://github-readme-stats.vercel.app/api?username=freezegr&show_icons=true&theme=tokyonight)
 
 [Atom]: https://atom.io/
