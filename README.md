@@ -1,6 +1,6 @@
 ### Hi there, I'm Stathis - aka Freezegr 👋
 
-![Discord](https://img.shields.io/website?label=Freezegr&style=Discord)
+![Discord](https://img.shields.io/endpoint?label=Freezegr&style=Discord)
 
 ## Infometion
 
