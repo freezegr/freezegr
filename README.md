@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Atom Text editor" width="26px" src="img/Atom.png" />][Atom]
-[<img align="left" alt="Intellij IDEA" width="26px" src="img/Intellij_IDEA1.png" />][inIdea]
+[<img align="left" alt="Intellij IDEA" width="26px" src="img\intellj_IDEA1.png" />][inIdea]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJs]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
