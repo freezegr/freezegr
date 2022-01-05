@@ -1,7 +1,6 @@
 ### Hi there, I'm Stathis - aka Freezegr 👋
 
-![Discord](https://img.shields.io/endpoint?label=Freezegr&style=Discord)
-
+![Discord](https://img.shields.io/endpoint?label=Mr%20F%C9%BE%D2%BD%D2%BD%C8%A5%D2%BD%232659&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Ffreezegr)
 ## Infometion
 
 - 👦 I'm 15 years old
