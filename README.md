@@ -3,7 +3,7 @@
 ![Discord](https://img.shields.io/endpoint?label=Mr%20F%C9%BE%D2%BD%D2%BD%C8%A5%D2%BD%232659&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Ffreezegr)
 ## Information
 
-- 👦 I'm 18 years old
+- 👦 I'm 19 years old
 - ⚡ Fun fact: I love to watch anime/series/movies
 
 <br />
